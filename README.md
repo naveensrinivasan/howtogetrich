@@ -3,7 +3,7 @@
 The source of this is [https://nav.al/how-to-get-rich](https://nav.al/how-to-get-rich). 
 
 ## book
-Used the originial content into a printing a physcial book with [bookbaby](https://www.bookbaby.com/)
+Used the originial content into a printing a physical book with [bookbaby](https://www.bookbaby.com/)
 ![](./cover.jpg)
 ![](./toc.jpg)
 
